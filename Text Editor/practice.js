@@ -1,13 +1,4 @@
-// let btns = document.querySelectorAll("button");
 
-// // for(btn of btns){
-// //     btn.onclick = sayhello;
-// //     btn.onmouseenter = youhover;
-// // };
-
-// function sayhello() {
-//     alert("you clicked the button.");
-// }
 
 // function youhover() {
 //     console.log("Click me, If you want to see details.");
