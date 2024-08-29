@@ -1,23 +1,6 @@
 
 
 
-// btn.addEventListener("click",text);
-
-
-//keyboard events
-// let inp = document.querySelector("input");
-
-// inp.addEventListener("keydown",function(event){
-//     console.log(event);
-//     console.log(event.key);
-//     console.log(event.code);
-// });
-
-// inp.addEventListener("keyup",function(event){
-//     console.log(event);
-//     console.log(event.key);
-//     console.log(event.code);
-// });
 
 // inp.addEventListener("keydown",function(event){
 //      if(event.key == "ArrowUp"){
