@@ -1,21 +1,5 @@
 
 
-// function youhover() {
-//     console.log("Click me, If you want to see details.");
-// }
-
-// function sayName() {
-//     alert("hiii, my name is sejal");
-// }
-
-// for(btn of btns){
-//     // btn.addEventListener("click",sayhello);
-//     // btn.addEventListener("click",sayName);
-//     btn.addEventListener("dblclick",function() {
-//         console.log("you double clicked");
-//     })
-// }
-
 
 // let btn = document.querySelector("button");
 
