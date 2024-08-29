@@ -1,19 +1,6 @@
 
 
 
-// let h1 = document.querySelector("h1");
-// let h3 = document.querySelector("h3");
-// let p = document.querySelector("p");
-// let btn = document.querySelector("button");
-
-// function text(){
-//     console.log(this.innerText);
-//     this.style.backgroundColor = "pink";
-// };
-
-// h1.addEventListener("click",text);
-// h3.addEventListener("click",text);
-// p.addEventListener("click",text);
 // btn.addEventListener("click",text);
 
 
