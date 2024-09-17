@@ -1,6 +1,6 @@
 <h1>Random Color Generator</h1>
 <p>This is a simple web application that generates a random color and changes the background of a div element when a button is clicked.</p>
-<p>The Random Color Generator app is built using **HTML** for structure, **CSS** for styling, and **JavaScript** for interactivity and dynamic color generation.</p>
+<p>The Random Color Generator app is built using HTML for structure, CSS for styling, and JavaScript for interactivity and dynamic color generation.</p>
 
 <h3>How It Works</h3>
 <ul>
