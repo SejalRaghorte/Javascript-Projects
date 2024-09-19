@@ -13,6 +13,13 @@
   <li>View Post Details:</li>
   <p>Users can view a detailed page for each post, which includes the username, content, and a unique post ID.</p>
 </ul>
+<h3>Technologies Used</h3>
+<ul>
+  <li>Node.js</li>
+  <li>Express.js</li>
+  <li>EJS (Embedded JavaScript)</li>
+  <li>Bootstrap</li>
+</ul>
 
 
 
