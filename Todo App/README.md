@@ -6,8 +6,14 @@
 
 <ul>
   <li>The user inputs a task in the provided text box.</li>
-  <li>When the user clicks the "Submit" button, the task is added to an unordered list (<ul>).</li>
+  <li>When the user clicks the "Submit" button, the task is added to an unordered list.</li>
   <li>Each task in the list is accompanied by a "Delete" button that allows the user to remove it from the list.</li>
   <li>The delete functionality works on both new tasks and the tasks that were initially rendered on the page.</li>
+</ul>
+
+<h4>Technologies Used</h4>
+<ul>
+  <li>HTML</li>
+  <li>JavaScript</li>
 </ul>
 
