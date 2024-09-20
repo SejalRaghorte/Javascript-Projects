@@ -10,6 +10,12 @@
   <li>The RGB value of the color is displayed above the div, so the user can see the exact color code being used.</li>
 </ul>
 
+<h4>Technologies Used</h4>
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
 
 
 
