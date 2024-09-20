@@ -8,3 +8,9 @@
   <li>The typed content is immediately reflected in a paragraph on the page as the user types.</li>
   <li>The application uses JavaScript to listen for changes and update the content in real-tim.e</li>
 </ul>
+
+<h4>Technologies Used</h4>
+<ul>
+  <li>HTML</li>
+  <li>JavaScript</li>
+</ul>
