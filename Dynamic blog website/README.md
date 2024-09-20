@@ -1,4 +1,4 @@
-<h1>Quora Posts Application</h1>
+<h1>Dynamic Blog Website</h1>
 <p>This project is a basic web application for creating, reading, updating, and deleting posts (CRUD operations) in a Quora-like format. Users can create posts with their username and content, view the details of individual posts, edit existing posts, and delete posts from the list. The application leverages a user-friendly interface built with Bootstrap for styling and Express.js for handling the backend functionality.</p>
 <h2>Features</h2>
 <ul>
